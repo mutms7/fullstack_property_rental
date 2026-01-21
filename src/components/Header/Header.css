@@ -14,18 +14,18 @@
   /* Distribute space between elements */
   justify-content: space-between;
   /* Set the background color */
-  background-color: #262637;
+  background-color: #808080;
   /* Use white text */
   color: white;
   /* Add padding inside the header */
-  padding: 0.625rem 1.25rem; /* 10px = 0.625rem, 20px = 1.25rem */
+  padding: 0.725rem 4.25rem; /* 10px = 0.625rem, 20px = 1.25rem */
 }
 
 .item .icon{
   /* Set the icon color */
   color: #2CDEB6;
   /* Add spacing to the right of the icon */
-  margin-right: 8px; 
+  margin-right: 10px; 
 }
 
 .item{

@@ -6,15 +6,15 @@ const Header = () => {
     <header className='header'>
       <div className='item brand'>
         <House className='icon' />
-        <span>Waterloo Rentals</span>
+        <span>WaterlooStudentRent</span>
       </div>
       <div className='item contact'>
         <Phone className='icon' />
-        <span>(519) 123-4567</span>
+        <span>(778) 903 6567</span>
       </div>
       <div className='item contact'>
         <Mail className='icon' />
-        <span>agent@email.com</span>
+        <span>wchenyin@uwaterloo.ca</span>
       </div>
     </header>
   );
